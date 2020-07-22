@@ -1,0 +1,119 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.title {
+    width: 100%;
+    /* margin-top: 10px; */
+}
+
+.mirai {
+    position: relative;
+    width: 100%;
+}
+
+.visual_pic {
+    width: 100%;
+}
+
+.AppStore {
+    position: absolute;
+    width: 37%;
+    top: 59.9%;
+    left: 43%;
+    width: 50%;
+}
+
+.follow {
+    position: absolute;
+    top: 90.5%;
+    left: 5.5%;
+    width: 40%;
+}
+
+.mutsuki {
+    position: relative;
+    width: 100%;
+}
+
+.AppStore02 {
+    position: absolute;
+    width: 37%;
+    top: 57.1%;
+    left: 43%;
+    width: 50%;
+}
+
+.follow02 {
+    position: absolute;
+    top: 89.5%;
+    left: 5.5%;
+    width: 40%;
+}
+
+.BESTAR {
+    position: relative;
+    width: 100%;
+}
+
+.bestar_tv {
+    position: absolute;
+    top: 4.1%;
+    left: 5.9%;
+    width: 30%;
+}
+
+
+
+
+
+.footer {
+    margin-top: 40px;
+}
+
+.webMagazine {
+    width: 100%;
+}
+
+.back_button {
+    width: 100%;
+}
+
+
+
+/* .sample {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.type {
+    width: 100%;
+}
+
+.try {
+    position: absolute;
+    width: 87%;
+    top: 89%;
+    left: 7%;
+} */
+
+
+
+
